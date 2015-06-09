@@ -1,2 +1,2 @@
 # HardWay
-# to write
+# to write python
